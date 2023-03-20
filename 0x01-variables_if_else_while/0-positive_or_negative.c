@@ -2,11 +2,10 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- *
  * main -Entry point
  * Name: Jefe
  * Date: 03-20-2023
- * Details: c program to print -ve, zero and -ve results of a random number
+ * Aim: To assign a random number to the variable n each time it is executed.
  * Returns: 0 
  */
 int main(void)
