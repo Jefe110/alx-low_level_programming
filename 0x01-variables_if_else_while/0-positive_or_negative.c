@@ -1,11 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-/**
- * Name: Jefe
- * Date: 03-20-2023
- * Aim: To assign a random number to the variable n each time it is executed.
- * Returns: 0 (SUCCESS)
+/*
+ **
+ * main - Generates a random number that prints wether it's positive, negative or zero.
+ * Return: 0 (SUCCESS)
  */
 int main(void)
 {
@@ -18,7 +17,7 @@ int main(void)
 		printf("%d is positive\n", n);
 	else if (n == 0)
 		printf("%d is zero\n", n);
-	else if (n < 0)
+	else 
 		printf("%d is negative\n", n);
 	return (0);
 }
