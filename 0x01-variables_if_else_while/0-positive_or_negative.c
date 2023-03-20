@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * main -Entry point
  * Name: Jefe
  * Date: 03-20-2023
  * Aim: To assign a random number to the variable n each time it is executed.
