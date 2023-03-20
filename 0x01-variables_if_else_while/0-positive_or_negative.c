@@ -2,10 +2,12 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- *Name: Timmilehin
- *Date:12;42 march 2023
-experience: it was a pain in the as*
- status dont
+ *
+ * main -Entry point
+ * Name: Jefe
+ * Date: 03-20-2023
+ * Details: c program to print -ve, zero and -ve results of a random number
+ * Returns: 0 
  */
 int main(void)
 {
