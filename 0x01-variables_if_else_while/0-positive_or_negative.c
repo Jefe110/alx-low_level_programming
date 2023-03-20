@@ -6,7 +6,7 @@
  * Name: Jefe
  * Date: 03-20-2023
  * Aim: To assign a random number to the variable n each time it is executed.
- * Returns: 0 
+ * Returns: 0 (SUCCESS)
  */
 int main(void)
 {
