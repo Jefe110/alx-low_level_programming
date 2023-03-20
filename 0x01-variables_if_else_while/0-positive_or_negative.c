@@ -2,8 +2,10 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- *
- *This program will assign a random number to the variable n each time it is executed
+ *Name: Timmilehin
+ *Date:12;42 march 2023
+experience: it was a pain in the as*
+ status dont
  */
 int main(void)
 {
